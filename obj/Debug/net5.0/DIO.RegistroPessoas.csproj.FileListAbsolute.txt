@@ -1,0 +1,16 @@
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas.deps.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas.runtimeconfig.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas.runtimeconfig.dev.json
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/ref/DIO.RegistroPessoas.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/bin/Debug/net5.0/DIO.RegistroPessoas.pdb
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.csprojAssemblyReference.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.GeneratedMSBuildEditorConfig.editorconfig
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.AssemblyInfoInputs.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.AssemblyInfo.cs
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.csproj.CoreCompileInputs.cache
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/ref/DIO.RegistroPessoas.dll
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.pdb
+/media/genivalvb/Backup01/00-projetos/ProjetosDIO/_NET/DIO.RegistroPessoas/obj/Debug/net5.0/DIO.RegistroPessoas.genruntimeconfig.cache
